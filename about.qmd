@@ -1,5 +1,6 @@
 ---
 title: "About"
+toc: true
 ---
 
 About this site

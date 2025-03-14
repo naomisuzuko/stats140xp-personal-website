@@ -7,9 +7,9 @@
 <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes">
 
 <meta name="author" content="Naomi Suzuki">
-<meta name="dcterms.date" content="2026-02-22">
+<meta name="dcterms.date" content="2024-12-13">
 
-<title>Project 1 – Naomi Suzuki</title>
+<title>From Stats to Scores: Analyzing NBA Game Outcomes – Naomi Suzuki</title>
 <style>
 code{white-space: pre-wrap;}
 span.smallcaps{font-variant: small-caps;}
@@ -92,10 +92,6 @@ ul.task-list li input[type="checkbox"] {
             <ul class="navbar-nav navbar-nav-scroll ms-auto">
   <li class="nav-item">
     <a class="nav-link" href="../index.html"> 
-<span class="menu-text">Home</span></a>
-  </li>  
-  <li class="nav-item">
-    <a class="nav-link" href="../about.html"> 
 <span class="menu-text">About</span></a>
   </li>  
   <li class="nav-item">
@@ -118,7 +114,9 @@ ul.task-list li input[type="checkbox"] {
     <h2 id="toc-title">On this page</h2>
    
   <ul>
-  <li><a href="#project-1" id="toc-project-1" class="nav-link active" data-scroll-target="#project-1">Project 1</a></li>
+  <li><a href="#about" id="toc-about" class="nav-link active" data-scroll-target="#about">About</a></li>
+  <li><a href="#deliverables" id="toc-deliverables" class="nav-link" data-scroll-target="#deliverables">Deliverables</a></li>
+  <li><a href="#results" id="toc-results" class="nav-link" data-scroll-target="#results">Results</a></li>
   </ul>
 </nav>
     </div>
@@ -127,7 +125,7 @@ ul.task-list li input[type="checkbox"] {
 
 <header id="title-block-header" class="quarto-title-block default">
 <div class="quarto-title">
-<h1 class="title">Project 1</h1>
+<h1 class="title">From Stats to Scores: Analyzing NBA Game Outcomes</h1>
 </div>
 
 
@@ -144,7 +142,7 @@ ul.task-list li input[type="checkbox"] {
     <div>
     <div class="quarto-title-meta-heading">Published</div>
     <div class="quarto-title-meta-contents">
-      <p class="date">February 22, 2026</p>
+      <p class="date">December 13, 2024</p>
     </div>
   </div>
   
@@ -156,8 +154,18 @@ ul.task-list li input[type="checkbox"] {
 </header>
 
 
-<section id="project-1" class="level3">
-<h3 class="anchored" data-anchor-id="project-1">Project 1</h3>
+<section id="about" class="level3">
+<h3 class="anchored" data-anchor-id="about">About</h3>
+<p>For this project, we conducted an in-depth analysis of the 2023-24 NBA Dataset provided to us. The NBA Dataset is an organization by a team of game statistics for each match during the 2023-24 season. Our objective was to test different models to predict the outcome of each game based on historical data. The dataset included 21 possible predictors, including minutes played, points scored, field goals (made, attempted, and percentage), three-point field goals (made, attempted, and percentage), free throws (made, attempted, and percentage), rebounds, assists, steals, blocks, etc.</p>
+<p>We used feature engineering before testing our models with Quantitative Discriminant Analysis (QDA) and Random Forest. With our selected features, Random Forest performed the best with a testing accuracy of 78%. In this paper, we provide a detailed breakdown of our analysis, including data preprocessing, experimental setup, and results and analysis.</p>
+</section>
+<section id="deliverables" class="level3">
+<h3 class="anchored" data-anchor-id="deliverables">Deliverables</h3>
+<p>Read our paper <a href="../NBA_scores.pdf">here</a></p>
+</section>
+<section id="results" class="level3">
+<h3 class="anchored" data-anchor-id="results">Results</h3>
+<p>From our models, we found that the weighted rolling average of wins/losses, defensive rebounds, and three-point average influenced the winner of an NBA match the most, with the weighted rolling average of wins/losses being the most influential out of the three. This conclusion is not surprising as it’s natural that a team with more wins leading up to a game will win that match. Because of the limited dataset from only one season, we still would not have a great way to predict, for example, a game in 2025 between Indiana and Washington.</p>
 
 
 </section>

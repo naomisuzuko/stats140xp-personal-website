@@ -1,9 +1,21 @@
 ---
-date: "2/22/2026"
-title: "Project 1"
+date: "December 13 2024"
+title: "From Stats to Scores: Analyzing NBA Game Outcomes"
 author: "Naomi Suzuki"
 ---
 
-### Project 1
+### About
+
+For this project, we conducted an in-depth analysis of the 2023-24 NBA Dataset provided to us. The NBA Dataset is an organization by a team of game statistics for each match during the 2023-24 season. Our objective was to test different models to predict the outcome of each game based on historical data. The dataset included 21 possible predictors, including minutes played, points scored, field goals (made, attempted, and percentage), three-point field goals (made, attempted, and percentage), free throws (made, attempted, and percentage), rebounds, assists, steals, blocks, etc.
+
+We used feature engineering before testing our models with Quantitative Discriminant Analysis (QDA) and Random Forest. With our selected features, Random Forest performed the best with a testing accuracy of 78%. In this paper, we provide a detailed breakdown of our analysis, including data preprocessing, experimental setup, and results and analysis.
+
+### Deliverables
+
+Read our paper [here](/NBA_scores.pdf)
+
+### Results
+
+From our models, we found that the weighted rolling average of wins/losses, defensive rebounds, and three-point average influenced the winner of an NBA match the most, with the weighted rolling average of wins/losses being the most influential out of the three. This conclusion is not surprising as it’s natural that a team with more wins leading up to a game will win that match. Because of the limited dataset from only one season, we still would not have a great way to predict, for example, a game in 2025 between Indiana and Washington. 
 
 

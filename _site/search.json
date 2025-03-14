@@ -11,7 +11,7 @@
     "href": "index.html",
     "title": "Naomi Suzuki",
     "section": "",
-    "text": "Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.Download My Resume"
+    "text": "Naomi Suzuki is a 3rd year Statistics and Data Science student at UCLA. She is passionate about social justice and is involved in the Nikkei Student Union, Kyodo Taiko, and Daily Bruin. Outside of school, she works at a cafe on campus and enjoys playing taiko, listening to music, and reading.\nDownload my resume"
   },
   {
     "objectID": "index.html#education",
@@ -32,20 +32,48 @@
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nFeb 22, 2026\n\n\nProject 1\n\n\nNaomi Suzuki\n\n\n\n\nFeb 22, 2026\n\n\nProject 2\n\n\nNaomi Suzuki\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 13, 2024\n\n\nFrom Stats to Scores: Analyzing NBA Game Outcomes\n\n\nNaomi Suzuki\n\n\n\n\nDec 7, 2024\n\n\nSurvivor Data Analytics\n\n\nNaomi Suzuki\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project1.html",
     "href": "projects/project1.html",
-    "title": "Project 1",
+    "title": "From Stats to Scores: Analyzing NBA Game Outcomes",
     "section": "",
-    "text": "Project 1"
+    "text": "About\nFor this project, we conducted an in-depth analysis of the 2023-24 NBA Dataset provided to us. The NBA Dataset is an organization by a team of game statistics for each match during the 2023-24 season. Our objective was to test different models to predict the outcome of each game based on historical data. The dataset included 21 possible predictors, including minutes played, points scored, field goals (made, attempted, and percentage), three-point field goals (made, attempted, and percentage), free throws (made, attempted, and percentage), rebounds, assists, steals, blocks, etc.\nWe used feature engineering before testing our models with Quantitative Discriminant Analysis (QDA) and Random Forest. With our selected features, Random Forest performed the best with a testing accuracy of 78%. In this paper, we provide a detailed breakdown of our analysis, including data preprocessing, experimental setup, and results and analysis.\n\n\nDeliverables\nRead our paper here\n\n\nResults\nFrom our models, we found that the weighted rolling average of wins/losses, defensive rebounds, and three-point average influenced the winner of an NBA match the most, with the weighted rolling average of wins/losses being the most influential out of the three. This conclusion is not surprising as it’s natural that a team with more wins leading up to a game will win that match. Because of the limited dataset from only one season, we still would not have a great way to predict, for example, a game in 2025 between Indiana and Washington."
   },
   {
     "objectID": "projects/project2.html",
     "href": "projects/project2.html",
-    "title": "Project 2",
+    "title": "Survivor Data Analytics",
     "section": "",
-    "text": "Project 2"
+    "text": "About\nGoal: In this project, we wanted to work as a team to understand what it takes to win the CBS game show Survivor from a casting stand point and explore how the game has changed over 41 seasons.\nProject Parts: 1. Analysis of Show’s Run (Visualizations) 2. Analysis of Winners (Visualizations, Logistic Regression Model) 3. Analysis of Castings (Power BI Dashboard)\nData: Our data is sourced from David Oehm who organized several spreadsheets of information about each season’s cast, challenge, viewers, and more. The data was originally developed to create the package “survivoR” but has been repurposed for this Python data analysis project.\n\n\nDeliverables\nSee what we discovered here"
+  },
+  {
+    "objectID": "index.html#education-1",
+    "href": "index.html#education-1",
+    "title": "Naomi Suzuki",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#education-2",
+    "href": "index.html#education-2",
+    "title": "Naomi Suzuki",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2022 - June 2026"
+  },
+  {
+    "objectID": "index.html#about",
+    "href": "index.html#about",
+    "title": "Naomi Suzuki",
+    "section": "",
+    "text": "Naomi Suzuki is a 3rd year Statistics and Data Science student at UCLA. She is passionate about social justice and is involved in the Nikkei Student Union, Kyodo Taiko, and Daily Bruin. Outside of school, she works at a cafe on campus and enjoys playing taiko, listening to music, and reading.\nDownload my resume"
+  },
+  {
+    "objectID": "index.html#introduction",
+    "href": "index.html#introduction",
+    "title": "Naomi Suzuki",
+    "section": "",
+    "text": "Naomi Suzuki is a 3rd year Statistics and Data Science student at UCLA. She is passionate about social justice and is involved in the Nikkei Student Union, Kyodo Taiko, and Daily Bruin. Outside of school, she works at a cafe on campus and enjoys playing taiko, listening to music, and reading.\nDownload my resume"
   }
 ]

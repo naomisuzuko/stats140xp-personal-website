@@ -1,7 +1,20 @@
 ---
-date: "2/22/2026"
-title: "Project 2"
+date: "December 7, 2024"
+title: "Survivor Data Analytics"
 author: "Naomi Suzuki"
 ---
 
-### Project 2
+### About
+
+**Goal:** In this project, we wanted to work as a team to understand what it takes to win the CBS game show Survivor from a casting stand point and explore how the game has changed over 41 seasons.  
+
+**Project Parts:** 
+1. Analysis of Show’s Run (Visualizations)
+2. Analysis of Winners (Visualizations, Logistic Regression Model)
+3. Analysis of Castings (Power BI Dashboard)
+
+**Data:** Our data is sourced from David Oehm who organized several spreadsheets of information about each season’s cast, challenge, viewers, and more. The data was originally developed to create the package “survivoR” but has been repurposed for this Python data analysis project. 
+
+### Deliverables
+
+See what we discovered [here](/survivor_analytics.pdf)
