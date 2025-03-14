@@ -1,0 +1,9 @@
+---
+date: "2/22/2026"
+title: "Project 1"
+author: "Naomi Suzuki"
+---
+
+### Project 1
+
+

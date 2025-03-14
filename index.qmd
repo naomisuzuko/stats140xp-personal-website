@@ -1,11 +1,26 @@
 ---
 title: "Naomi Suzuki"
+about:
+  template: broadside
+  image: profile_pic.jpg
+  links:
+    - icon: github
+      text: Github
+      href: https://github.com/naomisuzuko
+    - text: Email
+      url: "mailto:nfsuzuki07@ucla.edu"
 ---
 
-This is a Quarto website.
+Finley Malloc is the Chief Data Scientist at Wengo Analytics. When not innovating on data platforms, Finley enjoys spending time unicycling and playing with her pet iguana.Download [My Resume](/NaomiSuzuki_Resume2025_copy.pdf)
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+## Education
 
-```{r}
-1 + 1
-```
+University of California, Los Angeles | Los Angeles, CA
+
+B.S in Statistics and Data Science | Sept 2022 - June 2026
+
+## Experience
+
+Wengo Analytics | Head Data Scientist | April 2018 - present
+
+GeoScynce | Chief Analyst | Spet 2012 - April 2018
