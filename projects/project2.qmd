@@ -1,7 +1,7 @@
 ---
 date: "December 7, 2024"
 title: "Survivor Data Analytics"
-author: "Naomi Suzuki"
+author: "Naomi Suzuki, Isabella, Annie, Ava, Jade, Jennica, Tilly, Shaina, Sydney, Victoria"
 ---
 
 ### About

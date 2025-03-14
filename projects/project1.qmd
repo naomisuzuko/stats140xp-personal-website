@@ -1,7 +1,7 @@
 ---
 date: "December 13 2024"
 title: "From Stats to Scores: Analyzing NBA Game Outcomes"
-author: "Naomi Suzuki"
+author: "Naomi Suzuki, Alina Beaman, Gina Pak, Yufan Zhao"
 ---
 
 ### About

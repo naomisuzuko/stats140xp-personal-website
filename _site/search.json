@@ -7,32 +7,11 @@
     "text": "About this site\n\n1 + 1\n\n[1] 2"
   },
   {
-    "objectID": "index.html",
-    "href": "index.html",
-    "title": "Naomi Suzuki",
-    "section": "",
-    "text": "Naomi Suzuki is a 3rd year Statistics and Data Science student at UCLA. She is passionate about social justice and is involved in the Nikkei Student Union, Kyodo Taiko, and Daily Bruin. Outside of school, she works at a cafe on campus and enjoys playing taiko, listening to music, and reading.\nDownload my resume"
-  },
-  {
-    "objectID": "index.html#education",
-    "href": "index.html#education",
-    "title": "Naomi Suzuki",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2022 - June 2026"
-  },
-  {
-    "objectID": "index.html#experience",
-    "href": "index.html#experience",
-    "title": "Naomi Suzuki",
-    "section": "Experience",
-    "text": "Experience\nWengo Analytics | Head Data Scientist | April 2018 - present\nGeoScynce | Chief Analyst | Spet 2012 - April 2018"
-  },
-  {
     "objectID": "projects.html",
     "href": "projects.html",
     "title": "Projects",
     "section": "",
-    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 13, 2024\n\n\nFrom Stats to Scores: Analyzing NBA Game Outcomes\n\n\nNaomi Suzuki\n\n\n\n\nDec 7, 2024\n\n\nSurvivor Data Analytics\n\n\nNaomi Suzuki\n\n\n\n\n\nNo matching items"
+    "text": "Order By\n       Default\n         \n          Date - Oldest\n        \n         \n          Date - Newest\n        \n         \n          Title\n        \n         \n          Author\n        \n     \n  \n    \n      \n      \n    \n\n\n\n\n\nDate\n\n\nTitle\n\n\nAuthor\n\n\n\n\n\n\nDec 13, 2024\n\n\nFrom Stats to Scores: Analyzing NBA Game Outcomes\n\n\nNaomi Suzuki, Alina Beaman, Gina Pak, Yufan Zhao\n\n\n\n\nDec 7, 2024\n\n\nSurvivor Data Analytics\n\n\nNaomi Suzuki, Isabella, Annie, Ava, Jade, Jennica, Tilly, Shaina, Sydney, Victoria\n\n\n\n\n\nNo matching items"
   },
   {
     "objectID": "projects/project1.html",
@@ -49,22 +28,8 @@
     "text": "About\nGoal: In this project, we wanted to work as a team to understand what it takes to win the CBS game show Survivor from a casting stand point and explore how the game has changed over 41 seasons.\nProject Parts: 1. Analysis of Show’s Run (Visualizations) 2. Analysis of Winners (Visualizations, Logistic Regression Model) 3. Analysis of Castings (Power BI Dashboard)\nData: Our data is sourced from David Oehm who organized several spreadsheets of information about each season’s cast, challenge, viewers, and more. The data was originally developed to create the package “survivoR” but has been repurposed for this Python data analysis project.\n\n\nDeliverables\nSee what we discovered here"
   },
   {
-    "objectID": "index.html#education-1",
-    "href": "index.html#education-1",
-    "title": "Naomi Suzuki",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2022 - June 2026"
-  },
-  {
-    "objectID": "index.html#education-2",
-    "href": "index.html#education-2",
-    "title": "Naomi Suzuki",
-    "section": "Education",
-    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2022 - June 2026"
-  },
-  {
-    "objectID": "index.html#about",
-    "href": "index.html#about",
+    "objectID": "index.html",
+    "href": "index.html",
     "title": "Naomi Suzuki",
     "section": "",
     "text": "Naomi Suzuki is a 3rd year Statistics and Data Science student at UCLA. She is passionate about social justice and is involved in the Nikkei Student Union, Kyodo Taiko, and Daily Bruin. Outside of school, she works at a cafe on campus and enjoys playing taiko, listening to music, and reading.\nDownload my resume"
@@ -75,5 +40,12 @@
     "title": "Naomi Suzuki",
     "section": "",
     "text": "Naomi Suzuki is a 3rd year Statistics and Data Science student at UCLA. She is passionate about social justice and is involved in the Nikkei Student Union, Kyodo Taiko, and Daily Bruin. Outside of school, she works at a cafe on campus and enjoys playing taiko, listening to music, and reading.\nDownload my resume"
+  },
+  {
+    "objectID": "index.html#education",
+    "href": "index.html#education",
+    "title": "Naomi Suzuki",
+    "section": "Education",
+    "text": "Education\nUniversity of California, Los Angeles | Los Angeles, CA\nB.S in Statistics and Data Science | Sept 2022 - June 2026"
   }
 ]
